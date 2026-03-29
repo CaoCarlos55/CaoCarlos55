@@ -17,10 +17,3 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
-
-### Mis Estadísticas
-Aquí puedes ver cómo va mi actividad en GitHub:
-
-<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=CaoCarlos55&cc=222&tc=fff&ic=fff&bc=000" />
-
----
