@@ -21,9 +21,9 @@
 ### Mis Estadísticas
 Aquí puedes ver cómo va mi actividad en GitHub:
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[CaoCarlos55]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[CaoCarlos55]&layout=compact&theme=radical"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaoCarlos55&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoCarlos55&layout=compact&theme=radical"/>
 </p>
 
 ---
